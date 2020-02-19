@@ -1,0 +1,39 @@
+/* 
+
+ Typeface: Glacial Indifference
+ Author: Alfredo Marco Pradil, Hanken Design Co.
+ License: SIL OFL
+ Source: https://hanken.co/products/glacial-indifference
+ 
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'glacial-indifference-webfont';
+    src: url('regular.woff2') format('woff2'),
+         url('regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Bold */
+
+@font-face {
+    font-family: 'glacial-indifference-webfont';
+    src: url('bold.woff2') format('woff2'),
+         url('bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Italic */
+
+@font-face {
+    font-family: 'glacial-indifference-webfont';
+    src: url('italic.woff2') format('woff2'),
+         url('italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
