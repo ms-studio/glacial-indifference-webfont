@@ -14,7 +14,7 @@ The plugin loads the webfont files (WOFF2 and WOFF format) that were produced th
 
 The font is loaded in CSS with the name : 'glacial-indifference-webfont'.
 
-When the plugin is activated, the webfont will be available, but you still need to apply the CSS. You could to something like this:
+When the plugin is activated, the webfont will be available, but you still need to apply the CSS. You could do something like this:
 
 ```css
 body * {
